@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #e7eefe;
+}
+
+.board{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.column{
+    width: 30%;
+    min-height: 400px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #ade ;
+    border-radius: 1.4vmax;
+    color: #0f0654;
+    text-align: center;
+    
+}
+
+#addCard
+{
+    padding: 5px;
+    border-radius: 1.4vmax;;
+    background-color: #ffefc0;
+}
+ h2
+ {
+    color: #0f0654;
+ }
+ 
